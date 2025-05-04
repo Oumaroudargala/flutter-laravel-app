@@ -1,0 +1,13 @@
+{
+  "name": "Flutter + Laravel",
+  "features": {
+    "ghcr.io/devcontainers/features/php:1": {
+      "version": "8.2"
+    },
+    "ghcr.io/devcontainers/features/composer:1": {},
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "18"
+    },
+    "ghcr.io/devcontainers/features/flutter:1": {}
+  }
+}
